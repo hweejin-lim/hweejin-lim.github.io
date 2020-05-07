@@ -2,7 +2,7 @@
 title: 휘진's Blog # your site title
 author: Hweejin Lim (임휘진) # You :P
 description: > # Meta description of Homepage
-  업무와 일상을 담는 공간
+  업무&일상을 담는 공간
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://hweejin-lim.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
