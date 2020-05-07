@@ -2,6 +2,7 @@
 layout: post
 title: Test
 featured-img: stepbystep
+categories: Test
 mathjax: true
 ---
 
