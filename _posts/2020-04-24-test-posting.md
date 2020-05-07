@@ -7,6 +7,8 @@ mathjax: true
 
 # Blog Test Posting
 
+![사진이름](https://drive.google.com/uc?id=1yXs1ICRFqMH_C7c_Qh4EhVmkY-tBLMtk)
+
 #### 깃헙 블로그 사용을 위한 테스트 페이지
 
 ** 앞으로 할 일 ** :
