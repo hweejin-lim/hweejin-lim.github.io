@@ -159,7 +159,7 @@ Some text to show that the reference links can follow later.
 
 [You can use numbers for reference-style link definitions][1]
 
-Or leave it empty and use the [link text itself].
+Or leave it empty and use the [link text itself].완전 무작위 결측(MCAR : Missing completely at random)Missing completely at randomhttps://www.displayr.com/5-ways-deal-missing-data-cluster-analysis/
 
 URLs and URLs in angle brackets will automatically get turned into links.
 http://www.example.com or <http://www.example.com> and sometimes
