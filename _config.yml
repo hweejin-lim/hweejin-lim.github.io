@@ -4,7 +4,7 @@ author: Hweejin Lim (임휘진) # You :P
 description: > # Meta description of Homepage
   쉽게 풀어쓰는 데이터 분석 이야기
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://hweejin-lim.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://hweejin-lim.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # SEO PLUGIN
 # social:
