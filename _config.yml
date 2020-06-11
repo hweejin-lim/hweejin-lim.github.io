@@ -21,9 +21,9 @@ url: "https://hweejin-lim.github.io" # the base hostname & protocol for your sit
 navigation: # Navigation links
   - {name: 'Home', link: '/'}
   - {name: 'About', link: '/about'}
-  - {name: 'Work', link: '/work'}
-  - {name: 'Life', link: '/life'}
-  - {name: 'Contact', link: '/contact'}
+  - {name: 'Category', link: '/category'}
+#  - {name: 'Life', link: '/life'}
+#  - {name: 'Contact', link: '/contact'}
 
 tagline: >
   쉽게 풀어쓰는 데이터 분석 이야기
