@@ -20,8 +20,8 @@ url: "https://hweejin-lim.github.io" # the base hostname & protocol for your sit
 # THEME SETTINGS
 navigation: # Navigation links
   - {name: 'Home', link: '/'}
+  - {name: 'Categories', link: '/categories'}
   - {name: 'About', link: '/about'}
-  - {name: 'Category', link: '/category'}
 #  - {name: 'Life', link: '/life'}
 #  - {name: 'Contact', link: '/contact'}
 
