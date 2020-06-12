@@ -3,8 +3,9 @@ layout: page
 title: About
 permalink: /about/
 ---
-
+   
 -----  
+   
 안녕하세요.   
 임휘진입니다 :)
 
@@ -16,9 +17,9 @@ permalink: /about/
 
 좋은 하루 보내세요 :)
 감사합니다 :)  
-
+   
 -----
-
+   
 Email : radiancej@gmail.com   
 Linkedin : [https://www.linkedin.com/in/HweejinLim]()
 
