@@ -22,6 +22,6 @@ permalink: /about/
    
 [link]:https://www.linkedin.com/in/HweejinLim
 Email : radiancej@gmail.com   
-Linkedin : [HweejinLim][link]
+Linkedin : [HweejinLim][link]   
 
 
